@@ -1,0 +1,15 @@
+.back_hover {
+	display: inline-block;
+	padding: 0;
+	width: 35px;
+	height: 35px;
+    overflow: hidden;
+    text-decoration: none;
+    box-shadow: none;
+	background: rgba(255, 250, 250, 1.85);
+    z-index: 99;
+}
+.back_hover:hover {
+	background: rgba(220, 220, 220, 1.25);
+    transition-timing-function: ease-in;
+}

@@ -1,0 +1,41 @@
+.link_hover {
+	display: inline-block;
+	padding: 0;
+	width: calc(100% / 3);
+    height: 28px;
+	overflow: hidden;
+	background: rgba(255, 250, 250, 1.85);
+    text-decoration: none;
+    box-shadow: none;
+    color: black;
+}
+.link_hover:hover {
+	background: rgba(220, 220, 220, 0.85);
+    transition-timing-function: ease-in;
+    transition-delay:0.08s; 
+}
+.link_hover:active {
+	display: inline-block;
+	padding: 0;
+	width: calc(100% / 3);
+    height: 28px;
+	overflow: hidden;
+	background: rgba(255, 250, 250, 1.85);
+    text-decoration: none;
+    box-shadow: none;
+    color: black;
+	background: rgba(220, 220, 220, 0.85);
+}
+[aria-current] {
+	display: inline-block;
+	padding: 0;
+	width: calc(100% / 3);
+    height: 28px;
+	overflow: hidden;
+	background: rgba(255, 250, 250, 1.85);
+    text-decoration: none;
+    box-shadow: none;
+    color: black;
+	background: rgba(220, 220, 220, 0.85);
+}
+

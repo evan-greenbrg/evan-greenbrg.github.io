@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2016-10-01",
+        "datetext": "October 2016",
+        "location": "Ithaca, NY",
+        "description": "Hydrodynamic and morphodynamic surveys of bedrock river channels"
+    },
+    {
+        "date": "2016-08-01",
+        "datetext": "August 2016",
+        "location": "San Gabriel Mountains, CA",
+        "description": "Colluvial sample and photo-data collection"
+    },
+    {
+        "date": "2016-07-01",
+        "datetext": "July - August 2016",
+        "location": "Powell, WY",
+        "description": "Primary M.S. thesis field-data collection."
+    },
+    {
+        "date": "2016-05-01",
+        "datetext": "May 2016",
+        "location": "Guadalupe Mountains, TX",
+        "description": "Stratigraphy Field Course"
+    },
+    {
+        "date": "2015-06-01",
+        "datetext": "June - July 2015",
+        "location": "Wyoming and Montana",
+        "description": "General geological field Course"
+    },
+    {
+        "date": "2014-06-01",
+        "datetext": "June - July 2014",
+        "location": "Book Cliffs, Utah",
+        "description": "Measured Section, collected samples, LIDAT data collection"
+    },
+    {
+        "date": "11-01-2013",
+        "datetext": "November, May 2013",
+        "location": "Arizona Strip, AZ",
+        "description": "Primary B.A. thesis field-data collection"
+    }
+]
+        

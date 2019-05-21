@@ -1,0 +1,20 @@
+[
+    {
+        "School": "Pennsylvania State Univeristy",
+        "City": "State College",
+        "State": "PA",
+        "Degree": "M.S.",
+        "Department": "Geosciences",
+        "GPA": 3.95,
+        "Thesis": "Reconstructing river mobility from ancient deposits: Case study from the Willwood Formation (Paleocene-Eocene, Bighorn Basin, Wyoming, USA)"
+    },
+    {
+        "School": "Macalester College",
+        "City": "St. Paul",
+        "State": "MN",
+        "Degree": "B.A (Hons.)",
+        "Department": "Geology",
+        "GPA": 3.56,
+        "Thesis": "Soil Geochemistry and Mineral Exploration over Solution Collapse Breccia Pipes in Northwest Arizona"
+    }
+]

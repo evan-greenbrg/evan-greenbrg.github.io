@@ -1,0 +1,28 @@
+[
+    {
+        "Title": "Teaching Assitant",
+        "Department": "Oil and Gas Geology",
+        "Company": "Pennsylvania State University",
+        "City": "State College",
+        "State": "PA",
+        "StartDate": "September 2016",
+        "EndDate": "December 2016",
+        "Descriptions": [
+            "Taught bi-weekly lab sessions for the Geology course provided for Petroleum Engineering students",
+            "Subjects included well-log interpretation, petroleum geochemistry, and basic geologic first-principals"
+        ]
+    },
+    {
+        "Title": "Presenter",
+        "Department": "Public Programs",
+        "Company": "Maryland Science Center",
+        "City": "Baltimore",
+        "State": "MD",
+        "StartDate": "September 2014",
+        "EndDate": "May 2015",
+        "Descriptions": [
+            "Taught elementary and midlle-school aged science modues to museum visitors",
+            "Developed earth science teaching modules for general museum use"
+        ]
+    }
+]

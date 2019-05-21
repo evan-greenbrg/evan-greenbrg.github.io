@@ -1,0 +1,57 @@
+[
+    {
+        "Title": "Data Engineer",
+        "Department": "Data Engineering",
+        "Company": "Two Nil LLC.",
+        "City": "Los Angeles",
+        "State": "CA",
+        "StartDate": "February 2018",
+        "EndDate": "Present",
+        "Descriptions": [
+            "Developed new internal data structures using Apache Spark and AWS Glue",
+            "Organized, aggretages and mainated datasets for a wide range of clients integrating PostgresSql, Python and Amazon services",
+            "Developed and mainatained production-grade predictive machine learning models in both R and Python",
+            "Applied statistical models and data visualization to present compelling insights to clients"
+        ]
+    },
+    {
+        "Title": "Graduate Research Assistant",
+        "Department": "Department of Geosciences",
+        "Company": "Pennsylvania State University",
+        "City": "State College",
+        "State": "PA",
+        "StartDate": "August 2015",
+        "EndDate": "December 2017",
+        "Descriptions": [
+            "Used field work, numerical modeling and statistical techniques to evaluate the properties, similarities and depositional settings of fluvial sandstone deposits",
+            "Completed a six-week field campaign in Northern Wyoming"
+        ]
+    },
+    {
+        "Title": "Exploration Geology Intern",
+        "Department": "Technical Consulting",
+        "Company": "Big Rock Exploration LLC.",
+        "City": "Minneapolis",
+        "State": "MN",
+        "StartDate": "May 2013",
+        "EndDate": "May 2014",
+        "Descriptions": [
+            "GIS analysis of silica-sand prospects in Mennesota and Wisconsin",
+            "X-Ray Fluorescence and diffraction spectroscopy to evaluate the geochemistry of soils"
+        ]
+    },
+    {
+        "Title": "Engineering Geology Intern",
+        "Department": "Baltimore City Red Line Light Rail Project",
+        "Company": " Parsons Brinkerhoff",
+        "City": "Baltimore",
+        "State": "MD",
+        "StartDate": "May 2012",
+        "EndDate": "August 2012",
+        "Descriptions": [
+            "Lithological core descriptions",
+            "Cross section drafting",
+            "Market research with transportation analysts"
+        ]
+    }
+]
